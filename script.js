@@ -1,4 +1,4 @@
-// c:\Users\mayur\OneDrive\Desktop\Accio Job Course\Module 6\F2 Contest 3\script.js (javascript)
+
 // Get the table element
     let table = document.getElementById("table");
 
